@@ -1,4 +1,4 @@
-# tp2_Alg2
+# Trabalho prático Algoritmos 2
 Trabalho Prático Algorítimos 2
 Henrique Rotsen
 Ivan Assis
